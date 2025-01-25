@@ -1,0 +1,14 @@
+EMAIL=votre_email@exemple.com
+PASSWORD=votre_mot_de_passe
+EVENT_NAME=Match Équipe de France
+TICKET_QUANTITY=2
+TICKET_CATEGORY=Catégorie 1
+REFRESH_INTERVAL=5
+CARD_NUMBER=4111111111111111
+EXPIRY_DATE=12/25
+CVV=123
+
+selenium==4.16.0
+webdriver-manager==4.0.1
+python-dotenv==1.0.0
+requests==2.26.0
